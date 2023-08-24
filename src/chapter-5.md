@@ -1,5 +1,3 @@
-Chapter 5: Machine Learning Strategies for Small Business Growth
-================================================================
 
 Machine learning (ML) provides small businesses with new opportunities to identify new revenue streams, increase sales and revenue, and boost employee productivity and performance. In this chapter, we will explore machine learning strategies for small business growth.
 

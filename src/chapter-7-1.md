@@ -1,5 +1,3 @@
-Understanding the Tradeoffs of Machine Learning-Enhanced Small Business Operations
-==================================================================================================================================================================
 
 Small businesses can benefit from incorporating machine learning into their operations, but it is important to understand the tradeoffs that come with this technology. While machine learning can improve efficiency and accuracy, it can also have unintended consequences if not implemented correctly.
 

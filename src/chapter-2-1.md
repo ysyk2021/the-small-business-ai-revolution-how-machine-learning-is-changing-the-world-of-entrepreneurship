@@ -1,5 +1,3 @@
-Supervised, Unsupervised, and Reinforcement Learning Techniques
-========================================================================================================================================
 
 In this chapter, we will provide an overview of machine learning technology and the different techniques that small businesses can use to enhance their operations. We will discuss supervised learning, unsupervised learning, and reinforcement learning and how they can be applied in small business settings.
 

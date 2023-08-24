@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with Machine Learning for Small Business
-===================================================================
 
 In this chapter, we'll discuss the steps for small businesses to get started with machine learning. We will cover how to identify processes that can be enhanced with machine learning, selecting the right tools and platforms, and creating a customized roadmap for adoption.
 

@@ -1,5 +1,3 @@
-Deep Learning Algorithms and Applications for Small Business
-=====================================================================================================================================
 
 In this chapter, we will discuss deep learning algorithms and their applications in small businesses. We will cover the basics of deep learning, popular deep learning algorithms, and how small businesses can use them to automate tasks and improve decision-making.
 

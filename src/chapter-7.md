@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of Machine Learning on Small Business Success
-==============================================================================
 
 Machine learning can have a significant impact on small business operations and success. However, it is important to evaluate this impact and understand the tradeoffs that come with incorporating machine learning technology into small business operations.
 

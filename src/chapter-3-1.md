@@ -1,5 +1,3 @@
-Identifying Small Business Processes that can be Enhanced with Machine Learning
-====================================================================================================================================================
 
 In this chapter, we will discuss how small businesses can get started with machine learning by identifying processes that can be enhanced with machine learning. By leveraging machine learning, small businesses can automate tasks, improve decision-making, and gain a competitive advantage.
 

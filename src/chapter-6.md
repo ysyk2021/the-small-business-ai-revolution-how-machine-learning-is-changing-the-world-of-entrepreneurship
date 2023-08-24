@@ -1,5 +1,3 @@
-Chapter 6: Machine Learning for Small Business Innovation
-=========================================================
 
 Machine learning can be a powerful tool for small businesses to drive innovation and develop new products and services. In this chapter, we will explore how small businesses can use machine learning to generate ideas, detect and mitigate risks, and improve business resilience.
 
