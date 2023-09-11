@@ -1,5 +1,4 @@
-Chapter 6: Detecting and Mitigating Risks with Machine Learning-Enabled Fraud Detection and Prevention
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative power of machine learning in detecting and mitigating risks associated with fraud in small businesses. As machine learning algorithms continue to advance, they have become invaluable tools for identifying fraudulent activities, preventing financial losses, and safeguarding the reputation of entrepreneurial ventures. This chapter will delve into the techniques and strategies for implementing machine learning-enabled fraud detection and prevention in small businesses.
 

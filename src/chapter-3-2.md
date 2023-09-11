@@ -1,5 +1,4 @@
-Chapter 8: Selecting the Right Tools and Platforms for Small Business Machine Learning
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting the right tools and platforms for small business machine learning. As the field of machine learning continues to evolve, there is a wide range of tools and platforms available to assist entrepreneurs in implementing machine learning solutions. This chapter will provide insights into key considerations, popular tools, and platforms, and best practices for choosing the most suitable options for small businesses.
 

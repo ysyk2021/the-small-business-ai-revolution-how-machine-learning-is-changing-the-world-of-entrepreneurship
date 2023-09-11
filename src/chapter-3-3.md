@@ -1,5 +1,4 @@
-Chapter 10: Creating a Customized Roadmap for Small Business Machine Learning Adoption
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of creating a customized roadmap for small business machine learning adoption. Implementing machine learning strategies can be a transformative journey for entrepreneurs, and a well-defined roadmap can guide them through the various stages of adoption. This chapter will provide insights into the key considerations, steps, and best practices for developing a tailored plan to effectively incorporate machine learning into small businesses.
 

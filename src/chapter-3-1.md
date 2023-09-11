@@ -1,5 +1,4 @@
-Chapter 6: Identifying Small Business Processes that Can be Enhanced with Machine Learning
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying small business processes that can be enhanced with machine learning. Machine learning has the potential to revolutionize various aspects of small businesses, from optimizing operations to improving decision-making and customer experiences. This chapter will provide insights into key considerations, methodologies, and examples to help entrepreneurs identify processes with the highest potential for leveraging machine learning.
 
